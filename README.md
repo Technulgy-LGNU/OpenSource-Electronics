@@ -7,6 +7,6 @@ Autodesk EAGLE is available for free for students.
 
 Please check subfolders for further information on each version.
 
-## 
+## Electronics Assembly Team Faabs 2025
 
-![](/Team_Faabs/v2025/IMAGES/OBG-Electronis.png)
+![Some PCB](Team_Faabs/v2025/IMAGES/OBG-Electronics.png)
