@@ -9,4 +9,4 @@ Please check subfolders for further information on each version.
 
 ## 
 
-%![](/Team_Faabs/v2025/IMAGES/OBG-Electronis.png)
+![](/Team_Faabs/v2025/IMAGES/OBG-Electronis.png)
