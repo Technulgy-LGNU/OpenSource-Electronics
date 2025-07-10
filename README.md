@@ -9,4 +9,4 @@ Please check subfolders for further information on each version.
 
 ## 
 
-%![v2025](/Team_Faabs/HBG%20v2023/HBG%20v2023.jpg)
+%![v2025](/Team_Faabs/IMAGES/OBG-Electronis.png)
